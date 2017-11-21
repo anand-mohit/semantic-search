@@ -22,6 +22,7 @@ MicroServices:
 1.(Domain Expert UI)-Google Api-Crawler-Parser-Indexer-Neo4jconceptgraph (This pipeline populates neo4j database intent based for the domain)
 
 2.(User Query UI)-Spell Checker-NLP{ it includes Pos,Ner,Lemmatizer,Stop Words,IntentSearchService} - Neo4jConceptService - SocketService-Post Results
-Neo4j Intent Graph database is to populate intents.
 
-3.Chat Bot trained to answer Java questions on DialogFLow
+3.Neo4j Intent Graph database is to populate intents.
+
+4.Chat Bot trained to answer Java questions on DialogFLow

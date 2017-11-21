@@ -1,0 +1,9 @@
+package com.stackroute.exceptions;
+
+//Custom Exception
+public class UserNotFoundException extends Exception{
+	
+	public UserNotFoundException(String message) {
+        super(message);
+    }
+}

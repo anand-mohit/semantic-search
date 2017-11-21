@@ -1,6 +1,8 @@
 # semantic-search ~ under construnction ~
 Semantic search built on top of google api for java domain. The search is intent based .
+
 Technologies used:
+
 1.Angular 4 
 
 2.Angular Material 2
